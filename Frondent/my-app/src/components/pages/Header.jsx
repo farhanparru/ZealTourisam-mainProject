@@ -67,7 +67,7 @@ const Header = () => {
                 </div>
             </div>
         </div>
-        <div class="main-menu">
+        <div class="main-menu ">
               <nav class="navbar navbar-expand-lg fixed-top-onlymob">
                         <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
                           <ul class="navbar-nav ">
